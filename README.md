@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krishnaprasadkr
-- 👀 I’m interested in animation
-- 🌱 I’m currently learning coding.
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
